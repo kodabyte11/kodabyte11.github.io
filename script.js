@@ -1,5 +1,5 @@
 // lanyard intergration | made by @jkbinf
-const userId = '1145345930976034856';
+const userId = '1508036329298984973';
 const apiUrl = `https://api.lanyard.rest/v1/users/${userId}`;
 
 const statusColors = {
